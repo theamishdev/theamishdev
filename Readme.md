@@ -14,7 +14,7 @@
 • 💡 Exploring DevOps + System Design  
 • 🧠 Love solving DSA and LeetCode puzzles  
 • 🤝 Open to collaboration and contributions  
-• 🎮 When not coding, I game or read manga  
+• 🎮 When not coding, I watch anime or read manga  
 
 ---
 
