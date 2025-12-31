@@ -1,39 +1,34 @@
 <!-- Full Header Layout -->
 <div align="center">
 
-<table>
+<table style="border-collapse: collapse;">
 <tr>
 
-<!-- Avatar Column -->
-<td align="center" valign="middle" width="260">
+<!-- Avatar Column Full Height -->
+<td align="center" valign="middle" style="padding: 30px;">
   <img src="https://images5.alphacoders.com/133/thumb-1920-1338166.png" 
        alt="Profile Avatar"
-       width="230"
+       width="260"
        style="border-radius: 50%; border: 4px solid #00eaff; object-fit: cover;"/>
 </td>
 
-<!-- Banner + Title Column -->
-<td align="center" valign="middle">
-  <!-- Title -->
-  <h1 align="center">
-    Hey there! I'm <span style="color:#00eaff;">Amish Verma</span> 👋
-  </h1>
+<!-- Title Section -->
+<td align="center" valign="middle" style="padding: 30px;">
 
-  <!-- Subtitle -->
-  <p align="center">
-    <b>Turning ideas into clean & functional code</b> ⚡  
-    <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;System+Design+%26+DevOps+Learner+%F0%9F%9A%80;DSA+%26+LeetCode+Enthusiast+%E2%9A%A1;Anime+%26+Code+is+Life+%F0%9F%8E%A5" alt="Typing Animation"/>
-  </p>
+<h1 align="center">
+  Hey there! I'm <span style="color:#00eaff;">Amish Verma</span> 👋
+</h1>
+
+<p align="center">
+  <b>Turning ideas into clean & functional code</b> ⚡  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;System+Design+%26+DevOps+Learner+%F0%9F%9A%80;DSA+%26+LeetCode+Enthusiast+%E2%9A%A1;Anime+%26+Code+is+Life+%F0%9F%8E%A5" alt="Typing Animation"/>
+</p>
 
 </td>
 </tr>
 </table>
-
 </div>
-
----
-
 
 ---
 
