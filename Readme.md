@@ -105,12 +105,10 @@
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|------|
-| 📌 **FarmHive** | Smart crop monitoring for farmers | React, Node, MongoDB, Python | 🔗 [GitHub](#) • 🌍 [Live](#) |
-| 🎬 **TV News India** | Modern web platform for a YouTube news network | React.js, TailwindCSS, Firebase | 🔗 [GitHub](#) |
-| 💳 **PayNow** | UPI-style payment system | MERN, Razorpay, Redis | 🔗 [GitHub](#) |
-| 📚 **EduTrack** | Student dashboard for analytics | React, Chart.js, SQL | 🔗 [GitHub](#) |
-| 🎮 **AnimeHub** | Anime discovery + watchlist | Next.js, TMDB API, MongoDB | 🔗 [GitHub](#) |
-| 🛒 **ShopSmart** | E-commerce platform with admin tools | MERN, JWT Auth | 🔗 [GitHub](#) |
+| 📌 **FarmHive** | Smart crop monitoring for farmers | React, Node, MongoDB, Python | 🔗 [GitHub](#) • 🌍 [Live](https://github.com/theamishdev/FarmHive) |
+| 🎬 **Mental Health Stimulator** | Console based Mental Health Improver | Java | 🔗 [GitHub](https://github.com/theamishdev/Console_based_Mental_health_Stimulator) |
+| 💳 **ConnectShare** | Platform of Business Minded People | HTMl, CSS, JavaScript, SQL | 🔗 [GitHub](https://github.com/AadishJain112/ConnectShare) |
+|  **DeadLock Detection System** | Helps to find deadlock in process management | HTMl, CSS, JavaScript | 🔗 [GitHub](https://github.com/theamishdev/-deadlock-detection-system) |
 
 </div>
 
@@ -124,11 +122,10 @@
 
 | Category | Achievement | Year |
 |--------|-------------|------|
-| 🌟 GitHub | 500+ commits in 2024 | 2024 |
-| 🧠 LeetCode | 250+ problems solved | 2024–25 |
+| 🌟 GitHub | 50+ commits in 2024 | 2024 |
+| 🧠 LeetCode | 100+ problems solved | 2024–25 |
 | 📜 Certification | Web Dev Specialization (Coursera) | 2024 |
-| 🚀 Hackathons | Finalist — Tech Competition | 2023 |
-| 🛠 Open Source | 10+ PRs merged | 2024 |
+| 🛠 Open Source | 5+ PRs merged | 2024 |
 
 </div>
 
