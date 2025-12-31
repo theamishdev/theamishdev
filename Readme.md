@@ -95,6 +95,57 @@
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+> Highlights of my most impactful work
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|------|
+| 📌 **FarmHive** | Smart crop monitoring for farmers | React, Node, MongoDB, Python | 🔗 [GitHub](#) • 🌍 [Live](#) |
+| 🎬 **TV News India** | Modern web platform for a YouTube news network | React.js, TailwindCSS, Firebase | 🔗 [GitHub](#) |
+| 💳 **PayNow** | UPI-style payment system | MERN, Razorpay, Redis | 🔗 [GitHub](#) |
+| 📚 **EduTrack** | Student dashboard for analytics | React, Chart.js, SQL | 🔗 [GitHub](#) |
+| 🎮 **AnimeHub** | Anime discovery + watchlist | Next.js, TMDB API, MongoDB | 🔗 [GitHub](#) |
+| 🛒 **ShopSmart** | E-commerce platform with admin tools | MERN, JWT Auth | 🔗 [GitHub](#) |
+
+</div>
+
+> More awesome stuff in pinned repositories 👇
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| Category | Achievement | Year |
+|--------|-------------|------|
+| 🌟 GitHub | 500+ commits in 2024 | 2024 |
+| 🧠 LeetCode | 250+ problems solved | 2024–25 |
+| 📜 Certification | Web Dev Specialization (Coursera) | 2024 |
+| 🚀 Hackathons | Finalist — Tech Competition | 2023 |
+| 🛠 Open Source | 10+ PRs merged | 2024 |
+
+</div>
+
+---
+
+### 🪪 Badges
+
+<p align="center">
+<img src="https://img.shields.io/badge/Coding%20Streak-🔥%2030%2B%20days-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hackathon-Finalist-blue?style=for-the-badge">
+</p>
+
+---
+
+
 ## 🌐 Let’s Connect
 
 <p align="center">
