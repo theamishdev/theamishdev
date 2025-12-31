@@ -14,14 +14,6 @@
 
 <!-- Banner + Title Column -->
 <td align="center" valign="middle">
-
-  <!-- Banner -->
-  <p align="center">
-    <img src="https://wallpapers.com/images/high/anime-guy-typing-on-macbook-laptop-kt92qi80m1e08rnc.webp" 
-        alt="Developer Anime Setup"
-        width="650"/>
-  </p>
-
   <!-- Title -->
   <h1 align="center">
     Hey there! I'm <span style="color:#00eaff;">Amish Verma</span> 👋
