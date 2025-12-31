@@ -1,10 +1,9 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/Dk8RLDF/hacker-green-code.gif" alt="Hacker Animation" width="700"/>
-</p>
-
 <h1 align="center">
-  Hey there! I'm <span style="color:#00eaff;">Amish</span> 👋
+  Hey there! I'm Amish Verma 
+  <img src="https://images5.alphacoders.com/133/thumb-1920-1338166.png" 
+       alt="Anime Avatar"
+       width="60"
+       style="border-radius: 10px; margin-left: 10px;"/>
 </h1>
 
 <p align="center">
