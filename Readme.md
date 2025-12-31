@@ -47,9 +47,8 @@
 
 ### 🏆 Trophy Shelf
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theamishdev&theme=onedark&no-bg=true&no-frame=true" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/av123455)
+
 
 ---
 
