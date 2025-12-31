@@ -1,6 +1,6 @@
 <!-- Banner / Hero Section -->
 <p align="center">
-  <img src="https://i.ibb.co/4mx9J9W/anime-coding-banner.gif" alt="Developer Anime Banner" width="900"/>
+  <img src="https://wallpapers.com/images/high/anime-guy-typing-on-macbook-laptop-kt92qi80m1e08rnc.webp" alt="Developer Anime Setup" width="900"/>
 </p>
 
 <h1 align="center">
@@ -22,7 +22,7 @@
 - 🧠 Solving DSA & Competitive Programming  
 - 🛰 Exploring DevOps & Cloud (Docker, CI/CD)  
 - 🤝 Open to Collaboration on Interesting Projects  
-- 🎮 Anime & Manga Lover  
+- 🎮 Anime & Manga Enjoyer  
 
 > *"Learning to build what I once dreamed about."* ✨
 
@@ -71,10 +71,10 @@
 
 ## 🎯 Current Goals
 
-✔ Leveling up System Design  
-✔ Advanced DSA + Competitive Programming  
-✔ DevOps (Docker, Kubernetes, CI/CD)  
-✔ Building Real-World Scalable Products  
+✔ Master System Design Concepts  
+✔ Improve Competitive Programming  
+✔ Grow DevOps Knowledge  
+✔ Build Real-World Scalable Platforms  
 
 ---
 
@@ -86,8 +86,6 @@
 </p>
 
 ---
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=footer"/>
