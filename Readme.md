@@ -1,3 +1,7 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/Dk8RLDF/hacker-green-code.gif" alt="Hacker Animation" width="700"/>
+</p>
 
 <h1 align="center">
   Hey there! I'm <span style="color:#00eaff;">Amish</span> 👋
