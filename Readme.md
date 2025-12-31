@@ -135,9 +135,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Coding%20Streak-🔥%2030%2B%20days-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hackathon-Finalist-blue?style=for-the-badge">
 </p>
 
 ---
