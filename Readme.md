@@ -105,7 +105,7 @@
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|------|
-| 📌 **FarmHive** | Smart crop monitoring for farmers | React, Node, MongoDB, Python | 🔗 [GitHub](#) • 🌍 [Live](https://github.com/theamishdev/FarmHive) |
+| 📌 **FarmHive** | Online E-commerce for farmers as well as buyer of farmer's products | MERN | 🔗 [GitHub](#) • 🌍 [Live](https://github.com/theamishdev/FarmHive) |
 | 🎬 **Mental Health Stimulator** | Console based Mental Health Improver | Java | 🔗 [GitHub](https://github.com/theamishdev/Console_based_Mental_health_Stimulator) |
 | 💳 **ConnectShare** | Platform of Business Minded People | HTMl, CSS, JavaScript, SQL | 🔗 [GitHub](https://github.com/AadishJain112/ConnectShare) |
 |  **DeadLock Detection System** | Helps to find deadlock in process management | HTMl, CSS, JavaScript | 🔗 [GitHub](https://github.com/theamishdev/-deadlock-detection-system) |
