@@ -29,8 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theamishdev&show_icons=true&theme=radical&cache_seconds=7200" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theamishdev&layout=compact&theme=radical&cache_seconds=7200" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theamishdev&theme=dracula" />
 </p>
 
 
