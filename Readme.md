@@ -1,5 +1,5 @@
-<!-- Full Header Layout -->
-<div align="center">
+<!-- Full Header Layout with Cyberpunk Background -->
+<div align="center" style="background: linear-gradient(135deg, #3a0ca3, #000000, #4361ee); padding: 40px; border-radius: 12px; box-shadow: 0 0 25px #4cc9f0;">
 
 <table style="border-collapse: collapse;">
 <tr>
@@ -9,17 +9,17 @@
   <img src="https://images5.alphacoders.com/133/thumb-1920-1338166.png" 
        alt="Profile Avatar"
        width="260"
-       style="border-radius: 50%; border: 4px solid #00eaff; object-fit: cover;"/>
+       style="border-radius: 50%; border: 4px solid #00eaff; object-fit: cover; box-shadow: 0 0 18px #00eaff;"/>
 </td>
 
 <!-- Title Section -->
 <td align="center" valign="middle" style="padding: 30px;">
 
-<h1 align="center">
+<h1 align="center" style="color: #ffffff;">
   Hey there! I'm <span style="color:#00eaff;">Amish Verma</span> 👋
 </h1>
 
-<p align="center">
+<p align="center" style="color:#e2e2e2;">
   <b>Turning ideas into clean & functional code</b> ⚡  
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;System+Design+%26+DevOps+Learner+%F0%9F%9A%80;DSA+%26+LeetCode+Enthusiast+%E2%9A%A1;Anime+%26+Code+is+Life+%F0%9F%8E%A5" alt="Typing Animation"/>
