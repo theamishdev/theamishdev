@@ -112,7 +112,6 @@
 
 </div>
 
-> More awesome stuff in pinned repositories 👇
 
 ---
 
