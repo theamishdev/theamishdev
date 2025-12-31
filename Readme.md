@@ -18,11 +18,21 @@
 
 ---
 
-### 🛠 Tech Arsenal
+## 🚀 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,github,mysql,bootstrap&theme=dark" />
-</p>
+<div align="center">
+
+### ⚡ Languages | Tools | Technologies
+
+<a href="https://skillicons.dev">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,github,mysql,bootstrap&theme=dark" 
+    alt="Tech Stack"
+    style="border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1f1f1f, #090909); box-shadow: 0 0 20px rgba(255,255,255,0.1);"
+  />
+</a>
+
+</div>
 
 ---
 
