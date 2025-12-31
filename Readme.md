@@ -62,6 +62,30 @@
 
 ---
 
+## 📈 Growth Dashboard
+
+<p align="center">
+
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=theamishdev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+  <!-- LeetCode Difficulty Breakdown -->
+  <img src="https://leetcode-badge-sage.vercel.app/badge/av123455?theme=dark" height="160"/>
+
+</p>
+
+<p align="center">
+  <!-- Contributions Calendar Heatmap -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamishdev&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theamishdev&theme=tokyonight" width="90%"/>
+</p>
+
+---
+
 ### 🌐 Let’s Connect
 
 <p align="center">
