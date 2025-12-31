@@ -45,7 +45,7 @@
 
 ---
 
-### 🏆 Trophy Shelf
+### 🏆 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/av123455)
 
@@ -55,8 +55,8 @@
 ### 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amish-verma-8ab5942a6/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/></a>
+  <a href="https://www.linkedin.com/in/amish12/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/></a>
+  <a href="mailto:amishv20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/></a>
 </p>
 
 ---
