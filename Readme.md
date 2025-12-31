@@ -1,6 +1,6 @@
 <!-- Banner / Hero Section -->
 <p align="center">
-  <img src="https://wallpapers.com/images/high/anime-guy-typing-on-macbook-laptop-kt92qi80m1e08rnc.webp" alt="Developer Anime Setup" width="900"/>
+  <img src="https://wallpapers.com/images/high/anime-guy-typing-on-macbook-laptop-kt92qi80m1e08rnc.webp" alt="Developer Anime Setup" width="700"/>
 </p>
 
 <h1 align="center">
