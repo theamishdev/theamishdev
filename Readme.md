@@ -1,17 +1,38 @@
+<!-- Avatar Full Header Height -->
+<table width="100%">
+<tr>
+<td width="200px" align="center" valign="middle">
+  <img src="https://images5.alphacoders.com/133/thumb-1920-1338166.png" 
+       alt="Profile Avatar"
+       width="200"
+       style="border-radius: 50%; border: 3px solid #00eaff;" />
+</td>
+
+<td align="center">
+
 <!-- Banner / Hero Section -->
 <p align="center">
-  <img src="https://wallpapers.com/images/high/anime-guy-typing-on-macbook-laptop-kt92qi80m1e08rnc.webp" alt="Developer Anime Setup" width="700"/>
+  <img src="https://wallpapers.com/images/high/anime-guy-typing-on-macbook-laptop-kt92qi80m1e08rnc.webp" 
+       alt="Developer Anime Setup"
+       width="700"/>
 </p>
 
 <h1 align="center">
-  Hey there! I'm <span style="color:#00eaff;">Amish</span> 👋
+  Hey there! I'm <span style="color:#00eaff;">Amish Verma</span> 👋
 </h1>
 
 <p align="center">
   <b>Turning ideas into clean & functional code</b> ⚡  
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;System+Design+%26+DevOps+Learner+%F0%9F%9A%80;DSA+%26+LeetCode+Enthusiast+%E2%9A%A1;Anime+%26+Code+is+Life+%F0%9F%8E%A5" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;System+Design+%26+DevOps+Learner+%F0%9F%9A%80;DSA+%26+LeetCode+Enthusiast+%E2%9A%A1;Anime+%26+Code+is+Life+%F0%9F%8E%A5" 
+       alt="Typing SVG"/>
 </p>
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
