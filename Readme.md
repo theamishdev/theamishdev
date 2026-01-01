@@ -60,9 +60,9 @@
   <img src="https://leetcode-badge-sage.vercel.app/badge/av123455?theme=dark" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theamishdev&theme=tokyonight" width="90%"/>
-</p>
+</p> -->
 
 ---
 
