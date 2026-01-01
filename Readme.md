@@ -121,10 +121,10 @@
 
 | Category | Achievement | Year |
 |--------|-------------|------|
-| 🌟 GitHub | 50+ commits in 2024 | 2024 |
+| 🌟 GitHub | 50+ commits in 2025 | 2025 |
 | 🧠 LeetCode | 100+ problems solved | 2024–25 |
-| 📜 Certification | Web Dev Specialization (Coursera) | 2024 |
-| 🛠 Open Source | 5+ PRs merged | 2024 |
+| 📜 Certification | Computer Networks (Coursera) | 2025 |
+| 🛠 Open Source | 2+ PRs merged | 2024 |
 
 </div>
 
