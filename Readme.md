@@ -56,7 +56,7 @@
 ## 📈 Performance Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theamishdev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theamishdev&theme=tokyonight" />
 <img src="https://leetcode-badge-sage.vercel.app/badge/av123455?theme=dark" height="165"/>
  --></p>
 
