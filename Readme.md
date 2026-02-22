@@ -56,7 +56,7 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theamishdev&theme=tokyonight" />
-<img src="https://leetcode-badge-sage.vercel.app/badge/av123455?theme=dark" height="165"/>
+<img src="https://leetcode-badge-sage.vercel.app/badge/theamishdev?theme=dark" height="165"/>
  --></p>
 
 <p align="center">
@@ -80,7 +80,7 @@
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/av123455?theme=dark&border=2&radius=10&font=baloo&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/theamishdev?theme=dark&border=2&radius=10&font=baloo&ext=heatmap"/>
 </p>
 
 ---
