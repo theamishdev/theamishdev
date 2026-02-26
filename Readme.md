@@ -3,7 +3,6 @@
 
 <table style="border-collapse: collapse;">
 <tr>
-
 <!-- Avatar Column Full Height -->
 <td align="center" valign="middle" style="padding: 30px;">
   <img src="https://images5.alphacoders.com/133/thumb-1920-1338166.png" 
