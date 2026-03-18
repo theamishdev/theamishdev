@@ -10,7 +10,6 @@
        width="260"
        style="border-radius: 50%; border: 4px solid #00eaff; object-fit: cover; box-shadow: 0 0 18px #00eaff;"/>
 </td>
-
 <!-- Title Section -->
 <td align="center" valign="middle" style="padding: 30px;">
 
