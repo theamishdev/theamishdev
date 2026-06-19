@@ -18,9 +18,9 @@
 </h1>
 
 <p align="center" style="color:#e2e2e2;">
-  <b>Turning ideas into clean & functional code</b> ⚡  
+  <b>Building robust code & ensuring high-quality software</b> ⚡  
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;System+Design+%26+DevOps+Learner+%F0%9F%9A%80;DSA+%26+LeetCode+Enthusiast+%E2%9A%A1;Anime+%26+Code+is+Life+%F0%9F%8E%A5" alt="Typing Animation"/>
+  <img src="https://demolab.com" alt="Typing Animation"/>
 </p>
 </td>
 </tr>
@@ -32,13 +32,14 @@
 ## 🌟 About Me
 
 - 🎓 Computer Science Student  
+- 🔍 **Functional QA Engineer** (Test Cases, Bug Tracking & Quality Assurance)
 - 🧱 Full Stack Developer (MERN)  
 - 🧠 Solving DSA & Competitive Programming  
-- 🛰 Exploring DevOps & Cloud (Docker, CI/CD)  
-- 🤝 Open to Collaboration on Interesting Projects  
+- 🛰 Exploring DevOps, Cloud & CI/CD Pipelines
+- 🤝 Open to Collaboration on QA & Development Projects  
 - 🎮 Anime & Manga Enjoyer  
 
-> *"Learning to build what I once dreamed about."* ✨
+> *"Writing clean code, testing for edge cases, and breaking things to make them better."* ✨
 
 ---
 
@@ -48,6 +49,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,java,cpp,c,git,github,mysql,tailwind,bootstrap,linux,vscode&perline=9&theme=dark"/>
 </p>
 
+### 🎯 QA & Testing Toolkit
+- **Testing methodologies:** Functional, Regression, Integration, Smoke, UI/UX Testing
+- **Core Focus:** Test Case Execution, Defect Reporting, Cross-Browser Compatibility, Root Cause Analysis
+
 ---
 
 ## 📈 Performance Dashboard
@@ -55,7 +60,7 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theamishdev&theme=tokyonight" />
 <img src="https://leetcode-badge-sage.vercel.app/badge/theamishdev?theme=dark" height="165"/>
- --></p>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theamishdev&theme=tokyonight" width="90%"/>
@@ -85,30 +90,27 @@
 
 ## 🎯 Current Goals
 
-✔ Master System Design Concepts  
-✔ Improve Competitive Programming  
-✔ Grow DevOps Knowledge  
-✔ Build Real-World Scalable Platforms  
-
----
+✔ Master Manual & Automation Testing Workflows  
+✔ Implement Automated Testing Scripts (Selenium/Cypress)  
+✔ Improve Competitive Programming & LeetCode Analytics  
+✔ Grow DevOps & CI/CD Pipeline Knowledge  
 
 ---
 
 ## 🚀 Featured Projects
 
-> Highlights of my most impactful work
+> Highlights of my application development and testing implementations
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Role / Focus | Links |
 |--------|-------------|------------|------|
-| 📌 **FarmHive** | Online E-commerce for farmers as well as buyer of farmer's products | MERN | 🔗 [GitHub](#) • 🌍 [Live](https://github.com/theamishdev/FarmHive) |
-| 🎬 **Mental Health Stimulator** | Console based Mental Health Improver | Java | 🔗 [GitHub](https://github.com/theamishdev/Console_based_Mental_health_Stimulator) |
-| 💳 **ConnectShare** | Platform of Business Minded People | HTMl, CSS, JavaScript, SQL | 🔗 [GitHub](https://github.com/AadishJain112/ConnectShare) |
-|  **DeadLock Detection System** | Helps to find deadlock in process management | HTMl, CSS, JavaScript | 🔗 [GitHub](https://github.com/theamishdev/-deadlock-detection-system) |
+| 📌 **FarmHive** | Online E-commerce platform for farmers and product buyers | Full Stack Dev & E2E Testing | 🔗 [GitHub](#) • 🌍 [Live](https://github.com/theamishdev/FarmHive) |
+| 🎬 **Mental Health Stimulator** | Console-based mental health tool utilizing strong structural logic | Java Dev & Edge-Case Validation | 🔗 [GitHub](https://github.com/theamishdev/Console_based_Mental_health_Stimulator) |
+| 💳 **ConnectShare** | Professional networking hub with persistent relational databases | Frontend Dev & Database Verification | 🔗 [GitHub](https://github.com/AadishJain112/ConnectShare) |
+| 🧠 **DeadLock Detection System** | Algorithm visualizer to identify scheduling conflicts in process management | Logic Architecture & Functional Testing | 🔗 [GitHub](https://github.com/theamishdev/-deadlock-detection-system) |
 
 </div>
-
 
 ---
 
@@ -118,10 +120,10 @@
 
 | Category | Achievement | Year |
 |--------|-------------|------|
-| 🌟 GitHub | 50+ commits in 2025 | 2025 |
-| 🧠 LeetCode | 100+ problems solved | 2024–25 |
+| 🌟 QA & Mentorship | Guided students through Root Cause Analysis & Frontend Debugging | 2025 |
+| 🧠 LeetCode | 100+ problems solved with optimized algorithmic runtime | 2024–25 |
 | 📜 Certification | Computer Networks (Coursera) | 2025 |
-| 🛠 Open Source | 2+ PRs merged | 2024 |
+| 🛠 Open Source | 2+ PRs merged containing code refactoring and bug fixes | 2024 |
 
 </div>
 
@@ -130,13 +132,12 @@
 ### 🪪 Badges
 
 <p align="center">
-<img src="https://img.shields.io/badge/Coding%20Streak-🔥%2030%2B%20days-blueviolet?style=for-the-badge">
+<img src="https://shields.io">
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge">
 </p>
 
 ---
-
 
 ## 🌐 Let’s Connect
 
