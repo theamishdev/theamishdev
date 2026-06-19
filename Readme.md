@@ -37,6 +37,7 @@
 - 🛰 Exploring DevOps & Cloud (Docker, CI/CD)  
 - 🤝 Open to Collaboration on Interesting Projects  
 - 🎮 Anime & Manga Enjoyer  
+- 🧪 **Functional QA Engineer** with a focus on test case development, UI bug identification, and root cause analysis.
 
 > *"Learning to build what I once dreamed about."* ✨
 
@@ -83,12 +84,25 @@
 
 ---
 
+## 💼 Experience
+
+### DNK Media - Learning Platform | May 2025 – Present
+**QA Engineer (Functional) / Technical Mentor**
+
+*   **Test Case Development:** Formulated structured functional test cases, practice scenarios, and exercises to validate core web design, responsiveness, and frontend UI implementation principles.
+*   **Code Review & Defect Identification:** Conducted extensive code reviews and technical evaluations of HTML, CSS, and JavaScript applications to identify syntax errors, UI bugs, and functional discrepancies.
+*   **Root Cause Analysis:** Provided one-on-one technical troubleshooting and debugging support, performing root cause analysis on application defects to guide successful project resolution.
+*   **Quality Standards Assurance:** Verified that student software deliverables met specific technical requirements, usability standards, and cross-browser frontend compliance metrics.
+
+---
+
 ## 🎯 Current Goals
 
 ✔ Master System Design Concepts  
 ✔ Improve Competitive Programming  
 ✔ Grow DevOps Knowledge  
 ✔ Build Real-World Scalable Platforms  
+✔ Enhance skills in Functional Testing and Automation Frameworks
 
 ---
 
